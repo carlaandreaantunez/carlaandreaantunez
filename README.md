@@ -1,9 +1,9 @@
 ### Hi, I'm Carla 👋👩‍💻
 
-![foto](https://user-images.githubusercontent.com/76705188/133931304-d5fd1c85-0345-4f16-ab03-246097cf9b64.png)
 
+![foto (1)](https://user-images.githubusercontent.com/76705188/133943173-409b11e8-7a1b-40f8-8845-b7bd416c6253.png)
 
-## about me in code
+## about me in code 🐱‍🏍:
 ``` js 
 const carlaandreaantunez = { 
   pronouns: "she" | "her", 
@@ -16,7 +16,9 @@ const carlaandreaantunez = {
 - [Linkedin](https://linkedin.com/in/carlaandreaantunez)
 - [Instagram](https://instagram.com/carlaantuneza)
 
+
 [![carlaandreaantunez's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlaandreaantunez)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **carlaandreaantunez/carlaandreaantunez** is a ✨_special_✨ repository because its `READNE.md` (this file) appears on oyur GitHub profile.
 
