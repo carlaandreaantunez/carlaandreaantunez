@@ -1,6 +1,9 @@
 ### Hi, I'm Carla 👋👩‍💻
 
 ![foto](https://user-images.githubusercontent.com/76705188/133931304-d5fd1c85-0345-4f16-ab03-246097cf9b64.png)
+
+
+## about me in code
 ``` js 
 const carlaandreaantunez = { 
   pronouns: "she" | "her", 
@@ -9,7 +12,7 @@ const carlaandreaantunez = {
   passions: ['web development', 'photography', 'hiking']
 }
 ```
-You can find me 🗺:
+## you can find me 🗺:
 - [Linkedin](https://linkedin.com/in/carlaandreaantunez)
 - [Instagram](https://instagram.com/carlaantuneza)
 
