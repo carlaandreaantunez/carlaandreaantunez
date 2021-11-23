@@ -3,7 +3,7 @@
 
 ![foto (1)](https://user-images.githubusercontent.com/76705188/133943173-409b11e8-7a1b-40f8-8845-b7bd416c6253.png)
 
-## about me in code 🐱‍🏍:
+## about me:
 ``` js 
 const carlaandreaantunez = { 
   pronouns: "she" | "her", 
